@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\bin\Debug\net6.0\miscelanea.exe
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\bin\Debug\net6.0\miscelanea.deps.json
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\bin\Debug\net6.0\miscelanea.runtimeconfig.json
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\bin\Debug\net6.0\miscelanea.dll
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\bin\Debug\net6.0\miscelanea.pdb
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.AssemblyInfo.cs
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.dll
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\refint\miscelanea.dll
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.pdb
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\miscelanea.genruntimeconfig.cache
+C:\Users\Sena\source\repos\LuisaToquica2450473\miscelanea\obj\Debug\net6.0\ref\miscelanea.dll
